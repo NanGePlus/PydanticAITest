@@ -1,8 +1,0 @@
-pydantic-ai==0.0.14
-pydantic-ai[logfire]
-asyncpg==0.30.0
-logfire[asyncpg]
-python-dotenv==1.0.1
-aiomysql==0.2.0
-devtools==0.12.2
-
