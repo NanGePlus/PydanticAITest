@@ -266,9 +266,9 @@ async def main(host, user, password, database, table_name):
 
 # 异步运行主函数
 if __name__ == '__main__':
-    host = "139.224.72.218"
+    host = "129.24.32.18"
     user = "root"
-    password = "Aa112233@"
+    password = "123456"
     database = "test02"
     table_name = "students"
     asyncio.run(main(host, user, password, database, table_name))
