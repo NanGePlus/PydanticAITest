@@ -1,7 +1,9 @@
 # 1、介绍
 ## 1.1 主要内容                      
 PydanticAI开源框架介绍及使用PydanticAI实现Text2SQL生成SQL语句应用                                                                        
-本次应用案例实现功能为:在线客服支持、基于PostgreSQL数据库的Text2SQL生成SQL语句，基于MySQL数据库的Text2SQL生成SQL语句                                       
+本次应用案例实现功能为:在线客服支持、基于PostgreSQL数据库的Text2SQL生成SQL语句，基于MySQL数据库的Text2SQL生成SQL语句                
+相关视频:                 
+https://youtu.be/CuwoYERga2g                       
 
 ## 1.2 PydanticAI框架
 PydanticAI是基于Pydantic构建的一个扩展框架，专注于增强AI模型的易用性，提供模型验证和数据验证功能                  
